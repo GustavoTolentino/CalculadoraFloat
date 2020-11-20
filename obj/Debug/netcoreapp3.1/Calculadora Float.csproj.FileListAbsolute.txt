@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.AssemblyInfo.cs
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.exe
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.deps.json
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.runtimeconfig.json
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.dll
+C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float.pdb
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.dll
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.pdb
+C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.genruntimeconfig.cache
