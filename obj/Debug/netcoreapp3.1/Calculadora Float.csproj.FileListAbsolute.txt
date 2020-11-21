@@ -11,3 +11,16 @@ C:\Users\dev\Desktop\Calculadora Float\bin\Debug\netcoreapp3.1\Calculadora Float
 C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.dll
 C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.pdb
 C:\Users\dev\Desktop\Calculadora Float\obj\Debug\netcoreapp3.1\Calculadora Float.genruntimeconfig.cache
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.csprojAssemblyReference.cache
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.AssemblyInfoInputs.cache
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.AssemblyInfo.cs
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.csproj.CoreCompileInputs.cache
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.dll
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.pdb
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.exe
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.deps.json
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.runtimeconfig.json
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.runtimeconfig.dev.json
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.dll
+C:\SENAI\repositorio\CalculadoraFloat\bin\Debug\netcoreapp3.1\Calculadora Float.pdb
+C:\SENAI\repositorio\CalculadoraFloat\obj\Debug\netcoreapp3.1\Calculadora Float.genruntimeconfig.cache
